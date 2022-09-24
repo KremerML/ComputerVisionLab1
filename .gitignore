@@ -130,3 +130,5 @@ dmypy.json
 
 images/
 .DS_Store
+
+sample_data/
